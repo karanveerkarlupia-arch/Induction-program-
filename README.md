@@ -50,3 +50,39 @@ This repository contains an overview of the activities and learnings from my col
   - Discussed required documentation and repayment guidelines.  
 
 -
+
+
+##  Day 2 – Assessments, Opportunities & Technical Training
+**Date:** 2nd August 2025  
+
+### Schedule & Key Moments:
+- **English Proficiency Exam (9:30 AM – 10:30 AM)**  
+  - 30 marks, 50-minute duration.  
+  - Covered three main areas: comprehension, writing, and grammar basics.  
+  - Aimed to evaluate language skills and identify strengths & weaknesses.  
+
+- **Mathematics Proficiency Exam (10:30 AM – 11:30 AM)**  
+  - Focused on fundamental maths, reasoning, and problem-solving skills.  
+
+- **Scholarship Guidance – Buddy4Study**  
+  - Learned about the **Satya Scholarship Program**.  
+  - Covered benefits, who can apply, and the application procedure.  
+  - Stressed the importance of using such opportunities to reduce financial burden.  
+
+- **Expert Talk – Dr. Arashdeep Singh** *(2:00 PM, Auditorium)*  
+  - Title: *"Food: A Pivotal Role in Student's Overall Wellness"*  
+  - Explained the relationship between diet, focus, and overall health.  
+  - Offered simple hostel-friendly nutrition tips to maintain energy and immunity.  
+  - Warned against irregular eating habits and overconsumption of processed foods.  
+
+- **Causmic Club Orientation & Induction Activity Launch (3:00 PM)**  
+  - Practical demonstration of **GitHub basics**:
+    - Setting up a profile  
+    - Creating and managing repositories  
+    - Using Markdown for reports  
+  - Informed students about the requirement to submit their **Induction Program Report** through GitHub.  
+
+---
+
+### Reflection:
+> The day combined academic assessments with skill-building sessions. It was an eye-opener to learn how scholarships can support our studies, how diet affects our productivity, and how GitHub can be used to showcase our work professionally.
