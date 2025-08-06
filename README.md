@@ -86,3 +86,27 @@ This repository contains an overview of the activities and learnings from my col
 
 ### Reflection:
 > The day combined academic assessments with skill-building sessions. It was an eye-opener to learn how scholarships can support our studies, how diet affects our productivity, and how GitHub can be used to showcase our work professionally.
+
+
+## Day 3 – Exploring Science & Inner Values
+**Date:** 3rd August 2025  
+
+### Schedule & Insights:
+
+- **9:00 AM – 11:00 AM:** Interactive Session by Dr. Jaswinder Singh (IAPT, Lab on Wheels)  
+  - Venue: Auditorium  
+  - The session was engaging and filled with **real-time experiments** related to Physics concepts like **vibration, sound waves**, and force.  
+  - He used simple tools and made even complex topics easy to understand.  
+  - Alongside science, he shared the spiritual idea of **Ik Onkar**, linking scientific curiosity with deeper **life meaning and unity**.  
+  - Dr. Singh is a **highly decorated educator**, having received both **State and National Awards** for his work in popularizing science among students.  
+
+- **11:00 AM – 1:00 PM:** Talk on Universal Human Values by Priya Darshni Madam  
+  - Venue: Auditorium  
+  - She discussed how human values play a critical role in shaping a meaningful life.  
+  - The talk included **practical examples** and real-life scenarios that helped us relate better.  
+  - She also emphasized that **education is not just about knowledge, but character**, and that empathy, compassion, and gratitude are equally important for a successful life.  
+
+---
+
+### Reflection:
+> The lecture by Dr. Singh helped me see science beyond theory – it was fun, visual, and meaningful. The value education session made me realize how important it is to grow not just intellectually, but also emotionally and ethically.
